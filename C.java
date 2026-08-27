@@ -1,3 +1,4 @@
+
 class C{
 void methodX1(){
   System.out.println("Hello");
@@ -6,3 +7,4 @@ void methodX1(){
   String clg = "JEC";
 
 }
+
