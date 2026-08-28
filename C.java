@@ -1,3 +1,3 @@
-class C{
-
+Class C{
+	int y =123;
 }
