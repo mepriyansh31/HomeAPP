@@ -7,4 +7,5 @@ class A{
    }
      String name = "mohan";
     int age = 22;
+   float marks= 32.1;
 }
