@@ -6,4 +6,5 @@ class A{
    System.out.println("Namaste");
    }
      String name = "mohan";
+    int age = 22;
 }
