@@ -5,5 +5,5 @@ class A{
    void newProcess(){
    System.out.println("Namaste");
    }
-      
+     String name = "mohan";
 }
