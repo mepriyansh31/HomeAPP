@@ -3,5 +3,7 @@ class C{
 
 	String clg= JEC;
 	int distance=5;
-	
+
+	void methodC1(){
+		int x =99;
 }
