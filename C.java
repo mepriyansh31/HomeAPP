@@ -3,6 +3,5 @@ class C{
 
 	String clg= "JEC";
 	int distance=5;
-	
 
 }
