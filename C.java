@@ -1,5 +1,7 @@
 class C{
 	int y =123;
 
-	String clg= JEC
+	String clg= JEC;
+	int distance=5;
+	
 }
